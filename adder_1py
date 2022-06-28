@@ -10,3 +10,7 @@ def power(num, pow=2):
 
 out = power(2,2)
 print(out)
+
+
+#** is used for multiple values and for liabrary 
+# is used for value with name
